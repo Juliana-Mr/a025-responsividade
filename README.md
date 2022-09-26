@@ -1,4 +1,4 @@
-# A025 - Responsividade 
+<!-- # A025 - Responsividade 
 
 ### Setup do projeto no Git
 
@@ -31,7 +31,7 @@
 ### Como eu vou executar os exercícios?
 Desta vez todos os arquivos .md com o enunciado estão na pasta raíz do repositório, pois iremos utilizar os mesmos arquivos `.html` e `.css`. Dessa vez, você pode alterar **apenas** o arquivo CSS, e ver o resultado acessando o arquivo. No seu navegador de internet (sugerimos o Google Chrome). Para acessar o arquivo, você pode copiar o caminho dele e colar no navegador, ou utilizar a extensão LiveServer. Mais detalhes sobre a extensão no material assíncrono. Além disso, você pode utilizar o Chrome DevTools para entender como estão as propriedades dos elementos do seu projeto.
 
-### O que você precisa saber e praticar desta aula?
+### O que você precisa saber e praticar desta aula? -->
 
 Dessa vez, os temas serão os mesmos em todos os exercícios: media-queries, unidades de medida, e breakpoints. Os exercícios de hoje tem como entregável uma página que possui 3 layouts diferentes, a depender da largura da tela.
 
